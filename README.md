@@ -6,13 +6,10 @@ Event Driven Simulation of a Link
 
 Comments: make
 
-+---------+
-| GRADING |
-+---------+
++------------+
+| GUIDELINES |
++------------+
 
-All test cases and grading guidelines are running.
-
-zip file contains the following files:
 pa1.c - Reading of input from command line and processing them. Printing of simulation parameters.
 
 pa1_implementation.c - Processing input obtained from pa1.c file. Queueing and Dequeueing of packets in the queue according to 3 events: Packet Arrival, Leaves Queue and Departs 						 from Server. Printing of statistics.
@@ -29,10 +26,4 @@ ReadMe file - Code description.
 
 Comments: None
 
-+-------+
-| OTHER |
-+-------+
-
-Comments on design decisions: None
-Comments on deviation from spec: None
 
